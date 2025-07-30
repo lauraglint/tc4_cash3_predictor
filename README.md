@@ -17,6 +17,7 @@ This project creates a predictive model using neural network LSTM to predict the
 
 ## Project Structure
 
+```text
 challenge_fase4/
 ├── app/
 │   ├── model/
@@ -30,6 +31,7 @@ challenge_fase4/
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
